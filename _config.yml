@@ -9,13 +9,13 @@ name:               "7 Data Stories"
 
 author:
   name:             "Mohamed Amin"
-  facebook:         ""
-  twitter:          ""
-  github:           ""
-  linkedin:         ""
-  medium:           ""
-  tumblr:           ""
-  email:            ""
+  #facebook:         ""
+  #twitter:          ""
+  #github:           ""
+  #linkedin:         ""
+  #medium:           ""
+  #tumblr:           ""
+  #email:            ""
 
 # Google-analytics
 google-analytics:
